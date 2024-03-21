@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-
-Console.WriteLine("Введите число: ");
+﻿Console.WriteLine("Введите число: ");
 int a = int.Parse(Console.ReadLine()!);
 
 void FindSumNum(int a)
